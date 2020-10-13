@@ -1,4 +1,4 @@
-// coded: Ayhanexe with <3
+// coded by: Ayhanexe with <3
 // I do not care about money
 // This code is fully free
 // use it as you want ;)
