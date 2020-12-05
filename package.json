@@ -1,0 +1,24 @@
+{
+  "name": "@0x21106/splittext",
+  "version": "1.0.0",
+  "description": "```javascript\r \timport { SplitText } from \"./assets/splitText.js\"",
+  "main": "example.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x21106/gsap-class-based-splitText-plugin.git"
+  },
+  "keywords": [
+    "gsap",
+    "split-text",
+    "split",
+    "text",
+    "splitText"
+  ],
+  "author": "Ayhanexe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x21106/gsap-class-based-splitText-plugin/issues"
+  },
+  "homepage": "https://github.com/0x21106/gsap-class-based-splitText-plugin#readme"
+}
