@@ -2,7 +2,7 @@ import { gsap, TimelineLite } from "./otherLibs/gsap/all.js";
 import { SplitText } from "./src/splitText.js";
 
 const timeline = new TimelineLite()
-const text = new SplitText(".header", ["words", "chars"])
+const text = new SplitText(".header", "chars")
 
 gsap.set(text.words, {
     perspective: "500",
