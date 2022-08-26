@@ -5,7 +5,7 @@
 	import { SplitText } from "./assets/splitText.js"
 
 	const text = document.querySelector("h1.test")
-	const splittedText = new SplitText(text, ["words", "chars"]) 
+	const splittedText = new SplitText(text) // or new SplitText("h1.test")
 ```
 
 ### And Animating with GSAP
@@ -15,7 +15,7 @@
 	import { SplitText } from "./assets/splitText.js"
 
 	const text = document.querySelector("h1.test")
-	const splittedText = new SplitText(text, ["words", "chars"]) 
+	const splittedText = new SplitText(text) // or new SplitText("h1.test")
 
 	const textTimeline = new TimelineLite()
 
