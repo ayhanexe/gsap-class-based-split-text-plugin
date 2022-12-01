@@ -182,15 +182,9 @@ export class SplitText {
   }
 
   init(elementOrSelector) {
-    // const resizeFunction = ((element) => {
-    //   this.#clearContent(element)
-    //   this.init(element)
-    // }).bind(this);
-    
     if (this.#isElement(elementOrSelector)) {
       this.target = elementOrSelector;
       this.#getTextContent();
-      // window.addEventListener("resize", () => resizeFunction(elementOrSelector))
     } else {
       if (elementOrSelector !== "") {
         const element = document.querySelector(`${elementOrSelector}`);
