@@ -1,3 +1,8 @@
+### Important! Thanks to Webflow, Gsap is free to use now with it's plugins like `SplitText`
+Its good to see and know how it works under the hood plugins like this but its better to use original `SplitText` plugin
+
+see: https://gsap.com/pricing/
+
 # GSAP Split Text Tool
 
 ### Basic Usage
